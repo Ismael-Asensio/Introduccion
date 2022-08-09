@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraMontos", "CalculadoraMontos\CalculadoraMontos.csproj", "{7200D7C0-1265-4627-8A9A-8ACAD6454D04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraMontos", "CalculadoraMontos\CalculadoraMontos.csproj", "{7200D7C0-1265-4627-8A9A-8ACAD6454D04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcPromedio", "CalcPromedio\CalcPromedio.csproj", "{3077C60E-6DDE-48B4-B27E-4DA1E632078B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcPromedio", "CalcPromedio\CalcPromedio.csproj", "{3077C60E-6DDE-48B4-B27E-4DA1E632078B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionMed", "ConversionMed\ConversionMed.csproj", "{6EADE96E-B1B8-436E-B0D7-2574AFF7280D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversionMed", "ConversionMed\ConversionMed.csproj", "{6EADE96E-B1B8-436E-B0D7-2574AFF7280D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalEmpresa", "Factura\CapitalEmpresa.csproj", "{A58AC2AA-859C-4AD4-804A-1A5EE98B95F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapitalEmpresa", "Factura\CapitalEmpresa.csproj", "{A58AC2AA-859C-4AD4-804A-1A5EE98B95F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturacion", "Facturacion\Facturacion.csproj", "{33F61628-823D-4FFD-BF44-B3589D098D69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facturacion", "Facturacion\Facturacion.csproj", "{33F61628-823D-4FFD-BF44-B3589D098D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagoEmpleados", "PagoEmpleados\PagoEmpleados.csproj", "{41C6C787-3DD0-4D9E-8632-329DD86EC4CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{33F61628-823D-4FFD-BF44-B3589D098D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33F61628-823D-4FFD-BF44-B3589D098D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33F61628-823D-4FFD-BF44-B3589D098D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C6C787-3DD0-4D9E-8632-329DD86EC4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C6C787-3DD0-4D9E-8632-329DD86EC4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C6C787-3DD0-4D9E-8632-329DD86EC4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C6C787-3DD0-4D9E-8632-329DD86EC4CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
